@@ -1,2 +1,1 @@
-# Repository_basic
-test basic repository functions
+Hello, Git! My name is minhee.
